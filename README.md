@@ -16,7 +16,7 @@ This repo is the starting line, not the finished game. What you get:
   for what can actually be built in a session.
 
 > **Worked example:** this scaffold was used on 2026-09-20 by a group of
-> 6 kids and 2 moderators. In one afternoon they shipped
+> 8 kids and 2 moderators. In one afternoon they shipped
 > **[Run Froggy, Run!](https://runfroggyrun.com)** — an endless lily-pad
 > runner with their own hand-drawn art, music, a custom domain and a
 > WhatsApp share card. Workshop and handbook by **Evgeni Hasin**.

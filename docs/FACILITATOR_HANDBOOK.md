@@ -4,7 +4,7 @@
 game to a real domain on the internet.**
 
 By Evgeni Hasin. Worked example: **[Run Froggy, Run!](https://runfroggyrun.com)**,
-built 2026-09-20 by 6 kids and 2 moderators in one afternoon.
+built 2026-09-20 by 8 kids and 2 moderators in one afternoon.
 Scaffold repo: `ehasin/Computer-Game-Workshop-Scaffold`.
 
 ---
@@ -163,8 +163,13 @@ loop visible without ever explaining the word "kanban".
 | Group size | Moderators | Notes |
 |---|---|---|
 | ≤ 4 kids | 1 | Doable solo; everyone stays in one group |
-| **5–8 kids** | **2** | **Recommended. This is what was actually run.** |
-| > 8 kids | 3+, or split the session | Beyond ~8 the art table becomes a crowd |
+| **5–8 kids** | **2** | **Recommended. 8 kids with 2 moderators is what was actually run** — it works, but it is the top of the band |
+| > 8 kids | 3+, or split the session | Untested. Beyond 8 the art table becomes a crowd |
+
+At 8 kids the two-group split in §7.4 lands at 4 and 4, which is about
+right: small enough that every kid gets a turn at the keyboard and a drawing
+in the game. Below 6 the split starts to feel thin — consider keeping
+everyone together and alternating between the two activities instead.
 
 With two moderators, split by **role, not by supervision**:
 
@@ -614,7 +619,7 @@ prototyping / agile scoping) — don't skip it to be agreeable.
 
 ## 12. Worked example — Run Froggy, Run!
 
-**2026-09-20 · 6 kids · 2 moderators · one afternoon ·
+**2026-09-20 · 8 kids · 2 moderators · one afternoon ·
 [runfroggyrun.com](https://runfroggyrun.com)**
 
 An endless lily-pad lane runner. The frog stays near the bottom, pond rows
