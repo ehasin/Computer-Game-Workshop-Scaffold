@@ -1,0 +1,9 @@
+# This is a static deploy: anything uploaded is publicly fetchable.
+.env
+.env.*
+*.local
+.vercel
+node_modules
+docs
+plan.md
+CLAUDE.md
